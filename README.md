@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome!
+
+My name is Nicolas, and i'm currently studying Computer Science at Universidad de Buenos Aires 🏛📚
+
 
 <!--
 **nicocarrasco703/nicocarrasco703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
